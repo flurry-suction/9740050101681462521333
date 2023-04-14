@@ -1,0 +1,329 @@
+{
+  "project_info": {
+    "project_number": "1085012372353",
+    "project_id": "arradev-d300e",
+    "storage_bucket": "arradev-d300e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1085012372353:android:be23356f419096a31b5680",
+        "android_client_info": {
+          "package_name": "com.araadev.pinjol_aman_ojk_cepat_cair"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1085012372353-qf09miv8n7va1emetm421k7l61bi2dbk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbf6e9xmIZVjoY0go7r6p-aXw2FCu6T0w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1085012372353-qf09miv8n7va1emetm421k7l61bi2dbk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1085012372353:android:31e295ae3809ceee1b5680",
+        "android_client_info": {
+          "package_name": "com.arradev.cara_cek_saldo_atm_lewat_hp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1085012372353-qf09miv8n7va1emetm421k7l61bi2dbk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbf6e9xmIZVjoY0go7r6p-aXw2FCu6T0w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1085012372353-qf09miv8n7va1emetm421k7l61bi2dbk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1085012372353:android:e1d75d57c330ca8b1b5680",
+        "android_client_info": {
+          "package_name": "com.arradev.cara_cek_saldo_emoneynfc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1085012372353-qf09miv8n7va1emetm421k7l61bi2dbk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbf6e9xmIZVjoY0go7r6p-aXw2FCu6T0w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1085012372353-qf09miv8n7va1emetm421k7l61bi2dbk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1085012372353:android:12d14557158ee7c01b5680",
+        "android_client_info": {
+          "package_name": "com.arradev.cara_cek_saldo_etollcard"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1085012372353-qf09miv8n7va1emetm421k7l61bi2dbk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbf6e9xmIZVjoY0go7r6p-aXw2FCu6T0w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1085012372353-qf09miv8n7va1emetm421k7l61bi2dbk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1085012372353:android:c6f8416fb4513ec41b5680",
+        "android_client_info": {
+          "package_name": "com.arradev.cara_cepat_sixpack_alami"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1085012372353-qf09miv8n7va1emetm421k7l61bi2dbk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbf6e9xmIZVjoY0go7r6p-aXw2FCu6T0w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1085012372353-qf09miv8n7va1emetm421k7l61bi2dbk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1085012372353:android:55e8266c4cee05521b5680",
+        "android_client_info": {
+          "package_name": "com.arradev.cara_daftar_bbm_subsidi_pertalite"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1085012372353-qf09miv8n7va1emetm421k7l61bi2dbk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbf6e9xmIZVjoY0go7r6p-aXw2FCu6T0w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1085012372353-qf09miv8n7va1emetm421k7l61bi2dbk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1085012372353:android:08e2c560d0f9ac9c1b5680",
+        "android_client_info": {
+          "package_name": "com.arradev.cara_daftar_sopee_affiliate"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1085012372353-qf09miv8n7va1emetm421k7l61bi2dbk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbf6e9xmIZVjoY0go7r6p-aXw2FCu6T0w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1085012372353-qf09miv8n7va1emetm421k7l61bi2dbk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1085012372353:android:c2334dd0e6128e731b5680",
+        "android_client_info": {
+          "package_name": "com.arradev.cara_dapat_diamond_ff_gratis"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1085012372353-qf09miv8n7va1emetm421k7l61bi2dbk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbf6e9xmIZVjoY0go7r6p-aXw2FCu6T0w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1085012372353-qf09miv8n7va1emetm421k7l61bi2dbk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1085012372353:android:ff7176fa22af4d101b5680",
+        "android_client_info": {
+          "package_name": "com.arradev.cerita_hororr_offline_bergambar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1085012372353-qf09miv8n7va1emetm421k7l61bi2dbk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbf6e9xmIZVjoY0go7r6p-aXw2FCu6T0w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1085012372353-qf09miv8n7va1emetm421k7l61bi2dbk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1085012372353:android:038f342415ad769c1b5680",
+        "android_client_info": {
+          "package_name": "om.arradev.cara_daftar_asuransi_kesehatanonline"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1085012372353-qf09miv8n7va1emetm421k7l61bi2dbk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbf6e9xmIZVjoY0go7r6p-aXw2FCu6T0w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1085012372353-qf09miv8n7va1emetm421k7l61bi2dbk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1085012372353:android:3be6359ddb0053ee1b5680",
+        "android_client_info": {
+          "package_name": "om.arradev.cek_saldo_bpjsketenagakerjaan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1085012372353-qf09miv8n7va1emetm421k7l61bi2dbk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbf6e9xmIZVjoY0go7r6p-aXw2FCu6T0w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1085012372353-qf09miv8n7va1emetm421k7l61bi2dbk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
